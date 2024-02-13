@@ -9,7 +9,7 @@ I embarked on my coding journey at the age of 14, and ever since, I've been pass
 🌍  I'm based in Paris</br>
 🖥️  See my portfolio at [MyPortfolio](http://www.enzoauriau.com)</br>
 ✉️  You can contact me at [enzo.auriau@epitech.eu](mailto:enzo.auriau@epitech.eu)</br>
-🧠  I'm learning Rust, Go, Ruby</br>
+🧠  I'm learning <em>Rust</em>, <em>Go</em>, <em>Ruby</em></br>
 🤝  I'm open to collaborating on backend / frontend projects!</br>
 ⚡  (I don't like coffee but sshhh).</br>
 
