@@ -7,7 +7,7 @@ A passionate full-stack developer from France.
 I embarked on my coding journey at the age of 14, and ever since, I've been passionately crafting thousands of lines of code. As I approach the completion of my master's degree, I've evolved into a well-rounded full-stack developer, specializing in the React framework with a touch of TypeScript
 
 🌍  I'm based in Paris</br>
-🖥️  See my portfolio at [MyPortfolio](https://www.enzoauriau.com)</br>
+🖥️  See my portfolio at [my portfolio](https://www.enzoauriau.com)</br>
 ✉️  You can contact me at [enzo.auriau@epitech.eu](mailto:enzo.auriau@epitech.eu)</br>
 🧠  I'm learning <em>Rust</em>, <em>Go</em>, <em>Ruby</em></br>
 🤝  I'm open to collaborating on backend / frontend projects!</br>
