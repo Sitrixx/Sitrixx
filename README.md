@@ -1,17 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sitrixx
 ===============================================================================================================================
 
-Full-Stack Developer
+A passionate full-stack developer from France.
 --------------------
 
 I embarked on my coding journey at the age of 14, and ever since, I've been passionately crafting thousands of lines of code. As I approach the completion of my master's degree, I've evolved into a well-rounded full-stack developer, specializing in the React framework with a touch of TypeScript
 
-* 🌍  I'm based in Paris
-* 🖥️  See my portfolio at [MyPortfolio](http://www.enzoauriau.com)
-* ✉️  You can contact me at [enzo.auriau@epitech.eu](mailto:enzo.auriau@epitech.eu)
-* 🧠  I'm learning Rust, Go, Ruby
-* 🤝  I'm open to collaborating on backend / frontend projects!
-* ⚡  (I don't like coffee but sshhh).
+🌍  I'm based in Paris
+🖥️  See my portfolio at [MyPortfolio](http://www.enzoauriau.com)
+✉️  You can contact me at [enzo.auriau@epitech.eu](mailto:enzo.auriau@epitech.eu)
+🧠  I'm learning Rust, Go, Ruby
+🤝  I'm open to collaborating on backend / frontend projects!
+⚡  (I don't like coffee but sshhh).
 
 ### Skills
 
